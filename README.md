@@ -1,49 +1,58 @@
-# Hi there 👋, I'm **Halfnums**
-
 <div align="center">
 
-### 🎓 Master Student | 🤖 AI & CV Enthusiast | 💻 Developer
+# Hi there 👋, I'm **Halfnums**
 
----
+### 🎓 Master Student from XJTU | 🤖 LLM & CV Enthusiast | 💻 Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NUMS-half&color=blue)
 
 </div>
 
 ## 🚀 About Me
-- 🔭 Currently focusing on **Artificial Intelligence**, **Computer Vision**, and **Diffusion Models**  
+- 🔭 Currently focusing on **Artificial Intelligence**, **Computer Vision**, **LLM**
 - 🌱 Learning advanced **LLM techniques**, **distributed systems**, and **system design**  
-- 💡 Love solving problems related to algorithms, model efficiency, and practical AI applications  
-- ✍️ Occasionally write about tech, research, and coding  
+- 💡 Exploring **distributed computing**, **large-scale model deployment**, and **systems designed for efficient AI production workflows**  
+
 
 ## 🧠 Research & Interests
-- **AI & Machine Learning**: LLM, multimodal systems, diffusion models  
+- **AI & Machine Learning**: LLM, AI Infra, multimodal systems, diffusion models  
 - **Computer Vision**: representation learning, generative models  
-- **Software Engineering**: distributed systems, backend development  
+- **Software Engineering**: distributed systems, backend development, datebase
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-`Python` · `Java` · `C++` · `JavaScript` · `SQL`
+### **Languages**
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45px"/>
+</div>
 
-**Frameworks & Tools**  
-`PyTorch` · `Docker` · `Git` · `Spring` · `SpringCloud`
+### **Frameworks & Tools**
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45px"/>
+</div>
 
-**Other**  
-Distributed systems · Model deployment · Prompt engineering
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![NUMS-half's GitHub stats](https://github-readme-stats.vercel.app/api?username=NUMS-half&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NUMS-half&layout=compact&theme=tokyonight)
+### **Other**
+- Distributed systems  
+- Model deployment and fine-tune  
+- Prompt engineering
 
 </div>
 
 ## 📫 Connect With Me
-- 📧 Email: *halfnums@gmail.com* or *weiyuxuan001@qq.com*
+- 📧 Email: *halfnums@gmail.com*  
+- 📧 Email: *weiyuxuan001@qq.com*
 
 ---
 
